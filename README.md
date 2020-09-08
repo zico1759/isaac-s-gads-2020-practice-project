@@ -1,1 +1,1 @@
-# isaac-s-gads-2020-practice-project
+# Isaac Elezue's Gads 2020 Project Submission
